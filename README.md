@@ -1,5 +1,8 @@
 # CVBuilder25
 Java CV management application
+
+To meet academic requirement, I used GitLab(KU) for this project.
+
 Youtube link: https://youtu.be/HM1pokMxGCs
 - Learned how to design and implement a Java data model and build a fully functional Java Swing GUI, including multi‑tab interfaces, forms, and navigation.
 - Gained hands‑on experience with file I/O, loading and saving CV data, maintaining versioned entries, and ensuring data persistence across sessions.
